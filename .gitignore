@@ -1,4 +1,4 @@
 testf.py
 *.txt
 *.mp4
-vscode/
+.vscode/
